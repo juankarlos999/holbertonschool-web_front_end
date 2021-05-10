@@ -187,7 +187,8 @@ h1, h2, h3, h4, h5, h6{
 /* Section HERO */
 
 .section-hero {
-  background-size: 90rem auto;
+  position: relative;
+  margin-top: -8.5rem;
 }
 
 .section-hero .section-body {
